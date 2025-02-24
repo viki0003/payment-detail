@@ -165,8 +165,29 @@ const PaymentForm = () => {
                 onChange={handleChange}
               >
                 <option value="">Select Option</option>
-                <option value="one">One</option>
-                <option value="two">Two</option>
+                <option value="Trial period for Market Leader Blueprint1">Trial period for Market Leader Blueprint1</option>
+                <option value="1 × Business Accelerator 2.0 regular (at CHF 1,750.00 / month)1">1 × Business Accelerator 2.0 regular (at CHF 1,750.00 / month)1</option>
+                <option value="Setup Fee - Business Accelerator1">Setup Fee - Business Accelerator1</option>
+                <option value="Trial period for Market Leader Blueprint 1 Month1">Trial period for Market Leader Blueprint 1 Month1</option>
+                <option value="Trial period for Business Accelerator1">Trial period for Business Accelerator1</option>
+                <option value="1 × Business Accelerator Test Monat (at CHF 12,000.00 / year)1">1 × Business Accelerator Test Monat (at CHF 12,000.00 / year)1</option>
+                <option value="Setup Fee - Market Leader Blueprint1">Setup Fee - Market Leader Blueprint1</option>
+                <option value="1 × Business Accelerator 3 month upfront (at CHF 1,250.00 / month)2">1 × Business Accelerator 3 month upfront (at CHF 1,250.00 / month)2</option>
+                <option value="Setup Fee - Business Accelerator 3 month upfront3">Setup Fee - Business Accelerator 3 month upfront3</option>
+                <option value="1 × Market Leader Blueprint - Vitalfit (at CHF 1,000.00 / month)3">1 × Market Leader Blueprint - Vitalfit (at CHF 1,000.00 / month)3</option>
+                <option value="1 × Market Leader Blueprint 1 Month (at CHF 2,500.00 / month)3">1 × Market Leader Blueprint 1 Month (at CHF 2,500.00 / month)3</option>
+                <option value="Trial period for Business Accelerator 3 month upfront4">Trial period for Business Accelerator 3 month upfront4</option>
+                <option value="1 × WHATSAPP_V1 (at CHF 26.68 / month)4">1 × WHATSAPP_V1 (at CHF 26.68 / month)4</option>    
+                <option value="1 × WHATSAPP_V1 (at CHF 25.96 / month)5">1 × WHATSAPP_V1 (at CHF 25.96 / month)5</option>
+                <option value="1 × Business Accelerator (at CHF 1,250.00 / month)5">1 × Business Accelerator (at CHF 1,250.00 / month)5</option>
+                <option value="one5">one5</option>
+                <option value="Trial period for Business Accelerator Test Monat6">Trial period for Business Accelerator Test Monat6</option>
+                <option value="1 × WHATSAPP_V1 (at $29.99 / month)7">1 × WHATSAPP_V1 (at $29.99 / month)7</option>
+                <option value="1 × Business Accelerator Test Monat (at CHF 0.00 / month)7">1 × Business Accelerator Test Monat (at CHF 0.00 / month)7</option>
+                <option value="1 × Market Leader Blueprint - Ensy Fit (at CHF 1,500.00 / month)7">1 × Market Leader Blueprint - Ensy Fit (at CHF 1,500.00 / month)7</option>
+                <option value="1 × Business Accelerator Test Monat (at CHF 1,250.00 / month)9">1 × Business Accelerator Test Monat (at CHF 1,250.00 / month)9</option>
+                <option value="1 × Market Leader Blueprint (at CHF 2,500.00 / month)9">1 × Market Leader Blueprint (at CHF 2,500.00 / month)9</option>
+                <option value="1 × Business Accelerator Regular (at CHF 1,250.00 / month)35">1 × Business Accelerator Regular (at CHF 1,250.00 / month)35</option>
               </select>
               {errors.membershipName && <p className="error">{errors.membershipName}</p>}
             </div>
